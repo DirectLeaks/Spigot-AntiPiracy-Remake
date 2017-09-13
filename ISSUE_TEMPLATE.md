@@ -1,10 +1,10 @@
-__What version of Spigot Anti-Piracy Remake are you using? __
+**What version of Spigot Anti-Piracy Remake are you using? **
 
 
-__Error: __
+**Error: **
 
 
-__Steps to reproduce: __
+**Steps to reproduce: **
 1. Step 1
 2. Step 2
 3. ...
